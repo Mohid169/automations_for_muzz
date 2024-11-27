@@ -1,0 +1,19 @@
+# CSV files
+*.csv
+
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+scale/
+automations/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpointsresearch_payments.csv
